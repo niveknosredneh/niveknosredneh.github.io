@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kevin M Henderson</title>
-    <link>https://examplesite.com/</link>
+    <link>https://niveknosredneh.github.io/</link>
     <description>Recent content on Kevin M Henderson</description>
     <image>
       <title>Kevin M Henderson</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://niveknosredneh.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://niveknosredneh.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://niveknosredneh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Buy me a coffee ☕</title>
-      <link>https://examplesite.com/buymecoffee/</link>
+      <link>https://niveknosredneh.github.io/buymecoffee/</link>
       <pubDate>Sun, 05 Feb 2023 18:19:32 -0600</pubDate>
       
-      <guid>https://examplesite.com/buymecoffee/</guid>
+      <guid>https://niveknosredneh.github.io/buymecoffee/</guid>
       <description>XMR: 47ALwRmmboq5WomeQ1vnYnVF9szrFUXjwdLj3bxVCpDKc39GddCykeFcjYaLjf5SXvR2NNBNZNL4ML8ZGGpD6D7wGAFEDow </description>
     </item>
     
     <item>
       <title>Curriculum Vitae</title>
-      <link>https://examplesite.com/cv/</link>
+      <link>https://niveknosredneh.github.io/cv/</link>
       <pubDate>Sun, 05 Feb 2023 10:48:06 -0600</pubDate>
       
-      <guid>https://examplesite.com/cv/</guid>
+      <guid>https://niveknosredneh.github.io/cv/</guid>
       <description> Skills Fluent in English, &amp;lsquo;Canadian grade 12&amp;rsquo; level of French Familiarity with basic hand and power tools, along with corresponding PPE Familiar with Word / Excel, and alternatives Comfortable in GNU/Linux environments, basic Python knowledge Employment Titan Environmental Containment (2023 - Present) Emerald Park, Saskatchewan Yard Coordinator CSR Titan Environmental Containment (2017 - 2023) Iles Des Chenes, Manitoba QC/QA Technician Field Technician Safety Representative La Roca (2016 - 2017) Winnipeg, Manitoba Kitchen Supervisor Line Cook </description>
     </item>
     
