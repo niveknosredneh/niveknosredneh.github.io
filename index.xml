@@ -9,7 +9,17 @@
       <url>https://niveknosredneh.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://niveknosredneh.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://niveknosredneh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 05 Feb 2023 20:48:06 -0600</lastBuildDate><atom:link href="https://niveknosredneh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Shoutout</title>
+      <link>https://niveknosredneh.github.io/posts/first/</link>
+      <pubDate>Sun, 05 Feb 2023 20:48:06 -0600</pubDate>
+      
+      <guid>https://niveknosredneh.github.io/posts/first/</guid>
+      <description>Software that I use and think deserves a shoutout</description>
+    </item>
+    
     <item>
       <title>Buy me a coffee ☕</title>
       <link>https://niveknosredneh.github.io/buymecoffee/</link>
@@ -20,12 +30,30 @@
     </item>
     
     <item>
+      <title>About Me</title>
+      <link>https://niveknosredneh.github.io/about/</link>
+      <pubDate>Sun, 05 Feb 2023 10:48:06 -0600</pubDate>
+      
+      <guid>https://niveknosredneh.github.io/about/</guid>
+      <description>I am a 33 year old computer engineering dropout, from Winnipeg, living in Regina.</description>
+    </item>
+    
+    <item>
       <title>Curriculum Vitae</title>
       <link>https://niveknosredneh.github.io/cv/</link>
       <pubDate>Sun, 05 Feb 2023 10:48:06 -0600</pubDate>
       
       <guid>https://niveknosredneh.github.io/cv/</guid>
       <description> Skills Fluent in English, &amp;lsquo;Canadian grade 12&amp;rsquo; level of French Familiarity with basic hand and power tools, along with corresponding PPE Familiar with Word / Excel, and alternatives Comfortable in GNU/Linux environments, basic Python knowledge Employment Titan Environmental Containment (2023 - Present) Emerald Park, Saskatchewan Yard Coordinator CSR Titan Environmental Containment (2017 - 2023) Iles Des Chenes, Manitoba QC/QA Technician Field Technician Safety Representative La Roca (2016 - 2017) Winnipeg, Manitoba Kitchen Supervisor Line Cook </description>
+    </item>
+    
+    <item>
+      <title>2022 Timelapses: Beans</title>
+      <link>https://niveknosredneh.github.io/posts/2022_beans/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://niveknosredneh.github.io/posts/2022_beans/</guid>
+      <description> </description>
     </item>
     
   </channel>
