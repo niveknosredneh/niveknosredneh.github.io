@@ -13,10 +13,10 @@
     <lastBuildDate>Sun, 05 Feb 2023 20:48:06 -0600</lastBuildDate><atom:link href="https://niveknosredneh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Software Shoutout</title>
-      <link>https://niveknosredneh.github.io/posts/first/</link>
+      <link>https://niveknosredneh.github.io/posts/software_shoutout/</link>
       <pubDate>Sun, 05 Feb 2023 20:48:06 -0600</pubDate>
       
-      <guid>https://niveknosredneh.github.io/posts/first/</guid>
+      <guid>https://niveknosredneh.github.io/posts/software_shoutout/</guid>
       <description>Software that I use and think deserves a shoutout</description>
     </item>
     
@@ -26,7 +26,7 @@
       <pubDate>Sun, 05 Feb 2023 18:19:32 -0600</pubDate>
       
       <guid>https://niveknosredneh.github.io/buymecoffee/</guid>
-      <description>XMR: 47ALwRmmboq5WomeQ1vnYnVF9szrFUXjwdLj3bxVCpDKc39GddCykeFcjYaLjf5SXvR2NNBNZNL4ML8ZGGpD6D7wGAFEDow </description>
+      <description> BTC: lorem ipsum XMR: 47ALwRmmboq5WomeQ1vnYnVF9szrFUXjwdLj3bxVCpDKc39GddCykeFcjYaLjf5SXvR2NNBNZNL4ML8ZGGpD6D7wGAFEDow ADA: lorem ipsum </description>
     </item>
     
     <item>
@@ -35,7 +35,8 @@
       <pubDate>Sun, 05 Feb 2023 10:48:06 -0600</pubDate>
       
       <guid>https://niveknosredneh.github.io/about/</guid>
-      <description>I am a 33 year old computer engineering dropout, from Winnipeg, living in Regina.</description>
+      <description>I am a 33 year old computer engineering dropout, from Winnipeg, living in Regina.
+I enjoy programming, and creating timelapse videos in my free time.</description>
     </item>
     
     <item>
@@ -50,9 +51,27 @@
     <item>
       <title>2022 Timelapses: Beans</title>
       <link>https://niveknosredneh.github.io/posts/2022_beans/</link>
-      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://niveknosredneh.github.io/posts/2022_beans/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>2022 Timelapses: Thyme</title>
+      <link>https://niveknosredneh.github.io/posts/2022_thyme/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://niveknosredneh.github.io/posts/2022_thyme/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>2021 Timelapses: Plants</title>
+      <link>https://niveknosredneh.github.io/posts/2021_plants/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://niveknosredneh.github.io/posts/2021_plants/</guid>
       <description> </description>
     </item>
     
