@@ -1,0 +1,58 @@
+---
+title: "Projects"
+date: 2023-02-05T10:48:06-06:00
+draft: false
+
+# tags: ["first"]
+# author: "Kevin Henderson"
+# author: ["Me", "You"] # multiple authors
+showToc: false
+TocOpen: false
+hidemeta: true
+comments: false
+#description: "Desc Text."
+canonicalURL: "https://canonical.url/to/page"
+disableHLJS: true # to disable highlightjs
+disableShare: true
+disableHLJS: false
+hideSummary: true
+searchHidden: true
+ShowReadingTime: false
+ShowBreadCrumbs: false
+ShowPostNavLinks: false
+ShowWordCount: false
+ShowRssButtonInSectionTermList: true
+UseHugoToc: false
+cover:
+    image: "<image path/url>" # image path/url
+    alt: "<alt text>" # alt text
+    caption: "<text>" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: true # only hide on current single page
+editPost:
+    URL: "https://github.com/<path_to_repo>/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+---
+
+---
+
+
+## [PFSG](https://github.com/niveknosredneh/PFSG) - Python FileSystem Grapher
+
+- Uses: NetworkX, Matplotlib
+
+![alt](https://github.com/niveknosredneh/PFSG/raw/master/img/twopi.png "=30x20")
+
+<img src="https://github.com/niveknosredneh/PFSG/raw/master/img/twopi.png" 
+     style="margin: 0px 5px 5px 0px; float: left; 
+            width:100px; height:149px; border:0" />
+
+
+
+## [MagickStack](https://github.com/niveknosredneh/MagickStack)
+
+
+- Uses: ImageMagick
+
+- ![alt text](https://github.com/niveknosredneh/MagickStack/raw/main/Examples/Examples_2023-12-03.jpg "MagickStack" )

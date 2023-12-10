@@ -1,0 +1,55 @@
+---
+title: "Curriculum Vitae"
+date: 2023-02-05T10:48:06-06:00
+draft: false
+
+# tags: ["first"]
+# author: "Kevin Henderson"
+# author: ["Me", "You"] # multiple authors
+showToc: false
+TocOpen: false
+hidemeta: true
+comments: false
+#description: "Desc Text."
+canonicalURL: "https://canonical.url/to/page"
+disableHLJS: true # to disable highlightjs
+disableShare: true
+disableHLJS: false
+hideSummary: true
+searchHidden: true
+ShowReadingTime: false
+ShowBreadCrumbs: false
+ShowPostNavLinks: false
+ShowWordCount: false
+ShowRssButtonInSectionTermList: true
+UseHugoToc: false
+cover:
+    image: "<image path/url>" # image path/url
+    alt: "<alt text>" # alt text
+    caption: "<text>" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: true # only hide on current single page
+editPost:
+    URL: "https://github.com/<path_to_repo>/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+---
+
+---
+## Employment
+
+- ### Titan Environmental Containment (2023 - Present)
+    - #### Emerald Park, Saskatchewan
+        - Yard Coordinator
+        - CSR
+
+- ### Titan Environmental Containment (2017 - 2023)
+    - #### Iles Des Chenes, Manitoba
+        - QC/QA Technician
+        - Field Technician
+        - Safety Representative
+
+- ### La Roca (2016 - 2017)
+    - #### Winnipeg, Manitoba
+        - Kitchen Supervisor
+        - Line Cook

@@ -1,0 +1,52 @@
+---
+title: "Software Shoutout"
+date: 2023-02-05T20:48:06-06:00
+draft: false
+
+tags: ["software"]
+# author: "Kevin Henderson"
+# author: ["Me", "You"] # multiple authors
+showToc: false
+TocOpen: false
+hidemeta: false
+comments: false
+description: "Software you probably don't care about"
+canonicalURL: "https://canonical.url/to/page"
+disableHLJS: true # to disable highlightjs
+disableShare: true
+disableHLJS: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: false
+ShowBreadCrumbs: false
+ShowPostNavLinks: false
+ShowWordCount: false
+ShowRssButtonInSectionTermList: true
+UseHugoToc: false
+cover:
+    image: "<image path/url>" # image path/url
+    alt: "<alt text>" # alt text
+    caption: "<text>" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: true # only hide on current single page
+editPost:
+    URL: ""
+    Text: "" # edit text
+    appendFilePath: true # to append file path to Edit link
+---
+---
+
+[Vivaldi](https://vivaldi.com) - web browser
+
+[Hugo](https://gohugo.io) - website generator
+
+[Batocera](https://batocera.org) - retro gaming
+
+[XnConvert](https://www.xnview.com/en/xnconvert/) - Batch image converter
+
+[AwesomeWM](https://awesomewm.org) - window manager
+
+[Micro](https://micro-editor.github.io) - text editor
+
+[Ympd](https://ympd.org) - mpd web gui
+
